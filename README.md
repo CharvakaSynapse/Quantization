@@ -18,6 +18,8 @@ I recently tackled my first serious experiment with **Quantization-Aware Trainin
 - **📈 Accuracy Gains:** All QAT variants slightly outperform the FP32 baseline.
 - **♻️ Entropy-Aware Distillation:** Entropy-conditioned temperature in EntKD is easy to implement and can generalize across distillation settings.
 
+  ![QAT vs FP32 Comparison](compare.png)
+
 ---
 
 ### 📦 Future Plans
